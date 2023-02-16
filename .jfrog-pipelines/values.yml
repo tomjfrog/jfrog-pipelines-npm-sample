@@ -2,3 +2,4 @@ myRepo:
   gitProvider: Github
   artifactory: jfrog_cloud
   path: tomjfrog/jfrog-pipelines-npm-sample
+  virtualRepo: pipelines-quickstart-npm
